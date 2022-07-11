@@ -1,5 +1,5 @@
 # TODO List
-![IMG]()
+![IMG](https://github.com/ProkofyevM/appWeatherReact/blob/main/src/assets/readmeAssets/weather.gif)
 
 -------
 ### About project:

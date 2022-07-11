@@ -1,4 +1,4 @@
-# TODO List
+# Weather App
 ![IMG](https://github.com/ProkofyevM/appWeatherReact/blob/main/src/assets/readmeAssets/weather.gif)
 
 -------
@@ -11,12 +11,12 @@
 
 > *this is how it works* :
 
-![Weather](ии bbb)
+![Weather]()
 
 
 
 -----
-### My tools mmmmmmm:
+### My tools:
 
 ![HTML](https://img.shields.io/badge/HTML-orange?style=plastic&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=plastic&logo=css3)

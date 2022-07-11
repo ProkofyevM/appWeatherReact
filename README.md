@@ -11,7 +11,7 @@
 
 > *this is how it works* :
 
-![Weather]()
+![Weather](https://github.com/ProkofyevM/appWeatherReact/blob/main/src/assets/readme/giphy.gif)
 
 
 
